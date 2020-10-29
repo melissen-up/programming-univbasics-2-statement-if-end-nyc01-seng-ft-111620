@@ -1,3 +1,3 @@
 current_time = Time.now 
-if current_time % 2 == 0
+current_time.to_s
   puts 
